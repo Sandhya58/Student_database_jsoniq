@@ -1,0 +1,1183 @@
+{
+  "db1": {
+    "boolQuery_a": false,
+    "boolQuery_b": false,
+    "boolQuery_c": true,
+    "boolQuery_d": true,
+    "boolQuery_e": false,
+    "boolQuery_f": false,
+    "boolQuery_g": false,
+    "boolQuery_h": true,
+    "boolQuery_i": false,
+    "boolQuery_j": true,
+    "boolQuery_k": true,
+    "boolQuery_l": false,
+    "dataQuery_a": [
+      {
+        "ssn": 83,
+        "name": "Peterson",
+        "major": "CS",
+        "status": "active"
+      },
+      {
+        "ssn": 84,
+        "name": "John",
+        "major": "CS",
+        "status": "active"
+      }
+    ],
+    "dataQuery_b": [
+      {
+        "ssn": 84,
+        "name": "John",
+        "major": "CS",
+        "status": "active"
+      }
+    ],
+    "dataQuery_c": [
+      {
+        "ssn": 10,
+        "name": "New",
+        "major": "OR",
+        "status": "active"
+      },
+      {
+        "ssn": 82,
+        "name": "Robertson",
+        "major": "CS",
+        "status": "active"
+      },
+      {
+        "ssn": 83,
+        "name": "Peterson",
+        "major": "CS",
+        "status": "active"
+      },
+      {
+        "ssn": 84,
+        "name": "John",
+        "major": "CS",
+        "status": "active"
+      }
+    ],
+    "dataQuery_d": [
+      {
+        "ssn": 75,
+        "name": "Green",
+        "major": "OR",
+        "status": "active"
+      },
+      {
+        "ssn": 80,
+        "name": "Simpson",
+        "major": "CS",
+        "status": "active"
+      }
+    ],
+    "dataQuery_e": [],
+    "dataQuery_f": [
+      {
+        "dcode": "C",
+        "cno": 101
+      },
+      {
+        "dcode": "CS",
+        "cno": 211
+      },
+      {
+        "dcode": "CS",
+        "cno": 310
+      },
+      {
+        "dcode": "CS",
+        "cno": 530
+      },
+      {
+        "dcode": "History",
+        "cno": 101
+      },
+      {
+        "dcode": "History",
+        "cno": 102
+      },
+      {
+        "dcode": "History",
+        "cno": 110
+      },
+      {
+        "dcode": "MTH",
+        "cno": 125
+      }
+    ],
+    "dataQuery_g": [
+      {
+        "dcode": "CS",
+        "cno": 330
+      },
+      {
+        "dcode": "CS",
+        "cno": 550
+      }
+    ],
+    "dataQuery_h": [
+      {
+        "class": 21,
+        "dcode": "CS",
+        "cno": 330,
+        "instr": 25
+      },
+      {
+        "class": 22,
+        "dcode": "CS",
+        "cno": 330,
+        "instr": 35
+      },
+      {
+        "class": 23,
+        "dcode": "CS",
+        "cno": 550,
+        "instr": 10
+      }
+    ],
+    "dataQuery_i": [
+      {
+        "ssn": 10,
+        "name": "New",
+        "major": "OR",
+        "status": "active"
+      },
+      {
+        "ssn": 82,
+        "name": "Robertson",
+        "major": "CS",
+        "status": "active"
+      },
+      {
+        "ssn": 83,
+        "name": "Peterson",
+        "major": "CS",
+        "status": "active"
+      },
+      {
+        "ssn": 84,
+        "name": "John",
+        "major": "CS",
+        "status": "active"
+      }
+    ],
+    "dataQuery_j": []
+  },
+  "db2": {
+    "boolQuery_a": false,
+    "boolQuery_b": false,
+    "boolQuery_c": true,
+    "boolQuery_d": false,
+    "boolQuery_e": true,
+    "boolQuery_f": true,
+    "boolQuery_g": false,
+    "boolQuery_h": false,
+    "boolQuery_i": true,
+    "boolQuery_j": false,
+    "boolQuery_k": true,
+    "boolQuery_l": false,
+    "dataQuery_a": [],
+    "dataQuery_b": [],
+    "dataQuery_c": [],
+    "dataQuery_d": [],
+    "dataQuery_e": [],
+    "dataQuery_f": [],
+    "dataQuery_g": [],
+    "dataQuery_h": [],
+    "dataQuery_i": [],
+    "dataQuery_j": []
+  },
+  "db3": {
+    "boolQuery_a": true,
+    "boolQuery_b": true,
+    "boolQuery_c": true,
+    "boolQuery_d": true,
+    "boolQuery_e": false,
+    "boolQuery_f": false,
+    "boolQuery_g": true,
+    "boolQuery_h": true,
+    "boolQuery_i": false,
+    "boolQuery_j": true,
+    "boolQuery_k": true,
+    "boolQuery_l": false,
+    "dataQuery_a": [
+      {
+        "ssn": 82,
+        "name": "Robertson",
+        "major": "CS",
+        "status": "active"
+      },
+      {
+        "ssn": 83,
+        "name": "Peterson",
+        "major": "CS",
+        "status": "active"
+      },
+      {
+        "ssn": 84,
+        "name": "John Smith",
+        "major": "CS",
+        "status": "active"
+      }
+    ],
+    "dataQuery_b": [],
+    "dataQuery_c": [
+      {
+        "ssn": 10,
+        "name": "New",
+        "major": "OR",
+        "status": "active"
+      },
+      {
+        "ssn": 82,
+        "name": "Robertson",
+        "major": "CS",
+        "status": "active"
+      },
+      {
+        "ssn": 83,
+        "name": "Peterson",
+        "major": "CS",
+        "status": "active"
+      },
+      {
+        "ssn": 84,
+        "name": "John Smith",
+        "major": "CS",
+        "status": "active"
+      }
+    ],
+    "dataQuery_d": [
+      {
+        "ssn": 75,
+        "name": "Green",
+        "major": "OR",
+        "status": "active"
+      },
+      {
+        "ssn": 80,
+        "name": "Simpson",
+        "major": "CS",
+        "status": "active"
+      }
+    ],
+    "dataQuery_e": [],
+    "dataQuery_f": [
+      {
+        "dcode": "C",
+        "cno": 101
+      },
+      {
+        "dcode": "CS",
+        "cno": 211
+      },
+      {
+        "dcode": "CS",
+        "cno": 310
+      },
+      {
+        "dcode": "CS",
+        "cno": 530
+      },
+      {
+        "dcode": "History",
+        "cno": 101
+      },
+      {
+        "dcode": "History",
+        "cno": 102
+      },
+      {
+        "dcode": "History",
+        "cno": 110
+      },
+      {
+        "dcode": "MTH",
+        "cno": 125
+      }
+    ],
+    "dataQuery_g": [
+      {
+        "dcode": "CS",
+        "cno": 330
+      },
+      {
+        "dcode": "CS",
+        "cno": 550
+      }
+    ],
+    "dataQuery_h": [
+      {
+        "class": 21,
+        "dcode": "CS",
+        "cno": 330,
+        "instr": 25
+      },
+      {
+        "class": 22,
+        "dcode": "CS",
+        "cno": 330,
+        "instr": 35
+      },
+      {
+        "class": 23,
+        "dcode": "CS",
+        "cno": 550,
+        "instr": 25
+      }
+    ],
+    "dataQuery_i": [
+      {
+        "ssn": 10,
+        "name": "New",
+        "major": "OR",
+        "status": "active"
+      },
+      {
+        "ssn": 82,
+        "name": "Robertson",
+        "major": "CS",
+        "status": "active"
+      },
+      {
+        "ssn": 83,
+        "name": "Peterson",
+        "major": "CS",
+        "status": "active"
+      },
+      {
+        "ssn": 84,
+        "name": "John Smith",
+        "major": "CS",
+        "status": "active"
+      }
+    ],
+    "dataQuery_j": []
+  },
+  "db4": {
+    "boolQuery_a": false,
+    "boolQuery_b": true,
+    "boolQuery_c": true,
+    "boolQuery_d": false,
+    "boolQuery_e": true,
+    "boolQuery_f": true,
+    "boolQuery_g": false,
+    "boolQuery_h": true,
+    "boolQuery_i": true,
+    "boolQuery_j": true,
+    "boolQuery_k": true,
+    "boolQuery_l": false,
+    "dataQuery_a": [
+      {
+        "ssn": 10,
+        "name": "John Smith",
+        "major": "OR",
+        "status": "active"
+      },
+      {
+        "ssn": 15,
+        "name": "John Smith",
+        "major": "CS",
+        "status": "active"
+      }
+    ],
+    "dataQuery_b": [],
+    "dataQuery_c": [
+      {
+        "ssn": 10,
+        "name": "John Smith",
+        "major": "OR",
+        "status": "active"
+      },
+      {
+        "ssn": 15,
+        "name": "John Smith",
+        "major": "CS",
+        "status": "active"
+      }
+    ],
+    "dataQuery_d": [],
+    "dataQuery_e": [],
+    "dataQuery_f": [
+      {
+        "dcode": "C",
+        "cno": 101
+      },
+      {
+        "dcode": "CS",
+        "cno": 211
+      },
+      {
+        "dcode": "CS",
+        "cno": 310
+      },
+      {
+        "dcode": "CS",
+        "cno": 330
+      },
+      {
+        "dcode": "CS",
+        "cno": 530
+      },
+      {
+        "dcode": "CS",
+        "cno": 550
+      },
+      {
+        "dcode": "History",
+        "cno": 101
+      },
+      {
+        "dcode": "History",
+        "cno": 102
+      },
+      {
+        "dcode": "History",
+        "cno": 110
+      },
+      {
+        "dcode": "MTH",
+        "cno": 125
+      }
+    ],
+    "dataQuery_g": [],
+    "dataQuery_h": [],
+    "dataQuery_i": [
+      {
+        "ssn": 10,
+        "name": "John Smith",
+        "major": "OR",
+        "status": "active"
+      },
+      {
+        "ssn": 15,
+        "name": "John Smith",
+        "major": "CS",
+        "status": "active"
+      }
+    ],
+    "dataQuery_j": []
+  },
+  "db5": {
+    "boolQuery_a": false,
+    "boolQuery_b": true,
+    "boolQuery_c": false,
+    "boolQuery_d": false,
+    "boolQuery_e": true,
+    "boolQuery_f": true,
+    "boolQuery_g": false,
+    "boolQuery_h": true,
+    "boolQuery_i": true,
+    "boolQuery_j": true,
+    "boolQuery_k": true,
+    "boolQuery_l": false,
+    "dataQuery_a": [
+      {
+        "ssn": 10,
+        "name": "John Smith",
+        "major": "OR",
+        "status": "active"
+      }
+    ],
+    "dataQuery_b": [],
+    "dataQuery_c": [
+      {
+        "ssn": 10,
+        "name": "John Smith",
+        "major": "OR",
+        "status": "active"
+      },
+      {
+        "ssn": 15,
+        "name": "John Smith",
+        "major": "CS",
+        "status": "active"
+      }
+    ],
+    "dataQuery_d": [],
+    "dataQuery_e": [],
+    "dataQuery_f": [
+      {
+        "dcode": "C",
+        "cno": 101
+      },
+      {
+        "dcode": "CS",
+        "cno": 211
+      },
+      {
+        "dcode": "CS",
+        "cno": 310
+      },
+      {
+        "dcode": "CS",
+        "cno": 330
+      },
+      {
+        "dcode": "CS",
+        "cno": 530
+      },
+      {
+        "dcode": "CS",
+        "cno": 550
+      },
+      {
+        "dcode": "History",
+        "cno": 101
+      },
+      {
+        "dcode": "History",
+        "cno": 102
+      },
+      {
+        "dcode": "History",
+        "cno": 110
+      },
+      {
+        "dcode": "MTH",
+        "cno": 125
+      }
+    ],
+    "dataQuery_g": [],
+    "dataQuery_h": [],
+    "dataQuery_i": [
+      {
+        "ssn": 10,
+        "name": "John Smith",
+        "major": "OR",
+        "status": "active"
+      },
+      {
+        "ssn": 15,
+        "name": "John Smith",
+        "major": "CS",
+        "status": "active"
+      }
+    ],
+    "dataQuery_j": []
+  },
+  "db6": {
+    "boolQuery_a": false,
+    "boolQuery_b": false,
+    "boolQuery_c": true,
+    "boolQuery_d": true,
+    "boolQuery_e": true,
+    "boolQuery_f": true,
+    "boolQuery_g": false,
+    "boolQuery_h": true,
+    "boolQuery_i": true,
+    "boolQuery_j": true,
+    "boolQuery_k": true,
+    "boolQuery_l": false,
+    "dataQuery_a": [
+      {
+        "ssn": 10,
+        "name": "New",
+        "major": "OR",
+        "status": "active"
+      }
+    ],
+    "dataQuery_b": [],
+    "dataQuery_c": [
+      {
+        "ssn": 10,
+        "name": "New",
+        "major": "OR",
+        "status": "active"
+      },
+      {
+        "ssn": 75,
+        "name": "Green",
+        "major": "OR",
+        "status": "active"
+      },
+      {
+        "ssn": 80,
+        "name": "Simpson",
+        "major": "CS",
+        "status": "active"
+      },
+      {
+        "ssn": 82,
+        "name": "Robertson",
+        "major": "CS",
+        "status": "active"
+      },
+      {
+        "ssn": 83,
+        "name": "Peterson",
+        "major": "CS",
+        "status": "active"
+      },
+      {
+        "ssn": 84,
+        "name": "John",
+        "major": "CS",
+        "status": "active"
+      }
+    ],
+    "dataQuery_d": [],
+    "dataQuery_e": [],
+    "dataQuery_f": [
+      {
+        "dcode": "C",
+        "cno": 101
+      },
+      {
+        "dcode": "CS",
+        "cno": 211
+      },
+      {
+        "dcode": "CS",
+        "cno": 310
+      },
+      {
+        "dcode": "CS",
+        "cno": 330
+      },
+      {
+        "dcode": "CS",
+        "cno": 530
+      },
+      {
+        "dcode": "CS",
+        "cno": 550
+      },
+      {
+        "dcode": "History",
+        "cno": 101
+      },
+      {
+        "dcode": "History",
+        "cno": 102
+      },
+      {
+        "dcode": "History",
+        "cno": 110
+      },
+      {
+        "dcode": "MTH",
+        "cno": 125
+      }
+    ],
+    "dataQuery_g": [],
+    "dataQuery_h": [],
+    "dataQuery_i": [
+      {
+        "ssn": 10,
+        "name": "New",
+        "major": "OR",
+        "status": "active"
+      },
+      {
+        "ssn": 75,
+        "name": "Green",
+        "major": "OR",
+        "status": "active"
+      },
+      {
+        "ssn": 80,
+        "name": "Simpson",
+        "major": "CS",
+        "status": "active"
+      },
+      {
+        "ssn": 82,
+        "name": "Robertson",
+        "major": "CS",
+        "status": "active"
+      },
+      {
+        "ssn": 83,
+        "name": "Peterson",
+        "major": "CS",
+        "status": "active"
+      },
+      {
+        "ssn": 84,
+        "name": "John",
+        "major": "CS",
+        "status": "active"
+      }
+    ],
+    "dataQuery_j": []
+  },
+  "db7": {
+    "boolQuery_a": false,
+    "boolQuery_b": false,
+    "boolQuery_c": true,
+    "boolQuery_d": true,
+    "boolQuery_e": true,
+    "boolQuery_f": true,
+    "boolQuery_g": false,
+    "boolQuery_h": true,
+    "boolQuery_i": true,
+    "boolQuery_j": true,
+    "boolQuery_k": true,
+    "boolQuery_l": false,
+    "dataQuery_a": [],
+    "dataQuery_b": [],
+    "dataQuery_c": [
+      {
+        "ssn": 82,
+        "name": "Tom Cruise",
+        "major": "History",
+        "status": "active"
+      }
+    ],
+    "dataQuery_d": [],
+    "dataQuery_e": [],
+    "dataQuery_f": [
+      {
+        "dcode": "CS",
+        "cno": 211
+      },
+      {
+        "dcode": "MTH",
+        "cno": 125
+      }
+    ],
+    "dataQuery_g": [
+      {
+        "dcode": "CS",
+        "cno": 330
+      }
+    ],
+    "dataQuery_h": [
+      {
+        "class": 21,
+        "dcode": "CS",
+        "cno": 330,
+        "instr": 25
+      },
+      {
+        "class": 22,
+        "dcode": "CS",
+        "cno": 330,
+        "instr": 35
+      }
+    ],
+    "dataQuery_i": [
+      {
+        "ssn": 82,
+        "name": "Tom Cruise",
+        "major": "History",
+        "status": "active"
+      }
+    ],
+    "dataQuery_j": []
+  },
+  "db8": {
+    "boolQuery_a": false,
+    "boolQuery_b": false,
+    "boolQuery_c": true,
+    "boolQuery_d": false,
+    "boolQuery_e": false,
+    "boolQuery_f": true,
+    "boolQuery_g": false,
+    "boolQuery_h": true,
+    "boolQuery_i": true,
+    "boolQuery_j": true,
+    "boolQuery_k": true,
+    "boolQuery_l": false,
+    "dataQuery_a": [],
+    "dataQuery_b": [],
+    "dataQuery_c": [],
+    "dataQuery_d": [
+      {
+        "ssn": 82,
+        "name": "Tom Cruise",
+        "major": "History",
+        "status": "active"
+      }
+    ],
+    "dataQuery_e": [],
+    "dataQuery_f": [
+      {
+        "dcode": "CS",
+        "cno": 211
+      },
+      {
+        "dcode": "MTH",
+        "cno": 125
+      }
+    ],
+    "dataQuery_g": [
+      {
+        "dcode": "CS",
+        "cno": 330
+      }
+    ],
+    "dataQuery_h": [
+      {
+        "class": 21,
+        "dcode": "CS",
+        "cno": 330,
+        "instr": 25
+      },
+      {
+        "class": 22,
+        "dcode": "CS",
+        "cno": 330,
+        "instr": 35
+      }
+    ],
+    "dataQuery_i": [
+      {
+        "ssn": 82,
+        "name": "Tom Cruise",
+        "major": "History",
+        "status": "active"
+      }
+    ],
+    "dataQuery_j": []
+  },
+  "db9": {
+    "boolQuery_a": false,
+    "boolQuery_b": false,
+    "boolQuery_c": true,
+    "boolQuery_d": true,
+    "boolQuery_e": true,
+    "boolQuery_f": true,
+    "boolQuery_g": false,
+    "boolQuery_h": true,
+    "boolQuery_i": false,
+    "boolQuery_j": true,
+    "boolQuery_k": true,
+    "boolQuery_l": false,
+    "dataQuery_a": [],
+    "dataQuery_b": [],
+    "dataQuery_c": [
+      {
+        "ssn": 82,
+        "name": "Tom Cruise",
+        "major": "History",
+        "status": "active"
+      }
+    ],
+    "dataQuery_d": [],
+    "dataQuery_e": [],
+    "dataQuery_f": [
+      {
+        "dcode": "CS",
+        "cno": 211
+      },
+      {
+        "dcode": "CS",
+        "cno": 330
+      },
+      {
+        "dcode": "MTH",
+        "cno": 125
+      }
+    ],
+    "dataQuery_g": [],
+    "dataQuery_h": [],
+    "dataQuery_i": [
+      {
+        "ssn": 82,
+        "name": "Tom Cruise",
+        "major": "History",
+        "status": "active"
+      }
+    ],
+    "dataQuery_j": []
+  },
+  "db10": {
+    "boolQuery_a": false,
+    "boolQuery_b": false,
+    "boolQuery_c": true,
+    "boolQuery_d": false,
+    "boolQuery_e": true,
+    "boolQuery_f": true,
+    "boolQuery_g": false,
+    "boolQuery_h": true,
+    "boolQuery_i": false,
+    "boolQuery_j": true,
+    "boolQuery_k": true,
+    "boolQuery_l": true,
+    "dataQuery_a": [],
+    "dataQuery_b": [],
+    "dataQuery_c": [
+      {
+        "ssn": 75,
+        "name": "New",
+        "major": "CS",
+        "status": "active"
+      },
+      {
+        "ssn": 80,
+        "name": "New",
+        "major": "CS",
+        "status": "active"
+      }
+    ],
+    "dataQuery_d": [],
+    "dataQuery_e": [],
+    "dataQuery_f": [
+      {
+        "dcode": "C",
+        "cno": 101
+      },
+      {
+        "dcode": "CS",
+        "cno": 211
+      },
+      {
+        "dcode": "CS",
+        "cno": 310
+      },
+      {
+        "dcode": "CS",
+        "cno": 330
+      },
+      {
+        "dcode": "CS",
+        "cno": 530
+      },
+      {
+        "dcode": "CS",
+        "cno": 550
+      },
+      {
+        "dcode": "History",
+        "cno": 101
+      },
+      {
+        "dcode": "History",
+        "cno": 102
+      },
+      {
+        "dcode": "History",
+        "cno": 110
+      },
+      {
+        "dcode": "MTH",
+        "cno": 125
+      }
+    ],
+    "dataQuery_g": [],
+    "dataQuery_h": [],
+    "dataQuery_i": [
+      {
+        "ssn": 75,
+        "name": "New",
+        "major": "CS",
+        "status": "active"
+      },
+      {
+        "ssn": 80,
+        "name": "New",
+        "major": "CS",
+        "status": "active"
+      }
+    ],
+    "dataQuery_j": [
+      {
+        "ssn": 75,
+        "name": "New",
+        "major": "CS",
+        "status": "active"
+      },
+      {
+        "ssn": 80,
+        "name": "New",
+        "major": "CS",
+        "status": "active"
+      }
+    ]
+  },
+  "db11": {
+    "boolQuery_a": false,
+    "boolQuery_b": false,
+    "boolQuery_c": true,
+    "boolQuery_d": false,
+    "boolQuery_e": true,
+    "boolQuery_f": true,
+    "boolQuery_g": false,
+    "boolQuery_h": true,
+    "boolQuery_i": false,
+    "boolQuery_j": true,
+    "boolQuery_k": false,
+    "boolQuery_l": true,
+    "dataQuery_a": [],
+    "dataQuery_b": [],
+    "dataQuery_c": [
+      {
+        "ssn": 75,
+        "name": "New",
+        "major": "CS",
+        "status": "active"
+      },
+      {
+        "ssn": 80,
+        "name": "New",
+        "major": "OR",
+        "status": "active"
+      }
+    ],
+    "dataQuery_d": [],
+    "dataQuery_e": [],
+    "dataQuery_f": [
+      {
+        "dcode": "C",
+        "cno": 101
+      },
+      {
+        "dcode": "CS",
+        "cno": 211
+      },
+      {
+        "dcode": "CS",
+        "cno": 310
+      },
+      {
+        "dcode": "CS",
+        "cno": 330
+      },
+      {
+        "dcode": "CS",
+        "cno": 530
+      },
+      {
+        "dcode": "CS",
+        "cno": 550
+      },
+      {
+        "dcode": "History",
+        "cno": 101
+      },
+      {
+        "dcode": "History",
+        "cno": 102
+      },
+      {
+        "dcode": "History",
+        "cno": 110
+      },
+      {
+        "dcode": "MTH",
+        "cno": 125
+      }
+    ],
+    "dataQuery_g": [],
+    "dataQuery_h": [],
+    "dataQuery_i": [
+      {
+        "ssn": 75,
+        "name": "New",
+        "major": "CS",
+        "status": "active"
+      },
+      {
+        "ssn": 80,
+        "name": "New",
+        "major": "OR",
+        "status": "active"
+      }
+    ],
+    "dataQuery_j": [
+      {
+        "ssn": 75,
+        "name": "New",
+        "major": "CS",
+        "status": "active"
+      }
+    ]
+  },
+  "db12": {
+    "boolQuery_a": false,
+    "boolQuery_b": false,
+    "boolQuery_c": true,
+    "boolQuery_d": false,
+    "boolQuery_e": true,
+    "boolQuery_f": true,
+    "boolQuery_g": false,
+    "boolQuery_h": true,
+    "boolQuery_i": false,
+    "boolQuery_j": true,
+    "boolQuery_k": true,
+    "boolQuery_l": false,
+    "dataQuery_a": [],
+    "dataQuery_b": [],
+    "dataQuery_c": [
+      {
+        "ssn": 75,
+        "name": "New",
+        "major": "CS",
+        "status": "active"
+      },
+      {
+        "ssn": 80,
+        "name": "New",
+        "major": "CS",
+        "status": "active"
+      }
+    ],
+    "dataQuery_d": [],
+    "dataQuery_e": [],
+    "dataQuery_f": [
+      {
+        "dcode": "C",
+        "cno": 101
+      },
+      {
+        "dcode": "CS",
+        "cno": 211
+      },
+      {
+        "dcode": "CS",
+        "cno": 310
+      },
+      {
+        "dcode": "CS",
+        "cno": 330
+      },
+      {
+        "dcode": "CS",
+        "cno": 530
+      },
+      {
+        "dcode": "CS",
+        "cno": 550
+      },
+      {
+        "dcode": "History",
+        "cno": 101
+      },
+      {
+        "dcode": "History",
+        "cno": 102
+      },
+      {
+        "dcode": "History",
+        "cno": 110
+      },
+      {
+        "dcode": "MTH",
+        "cno": 125
+      }
+    ],
+    "dataQuery_g": [],
+    "dataQuery_h": [],
+    "dataQuery_i": [
+      {
+        "ssn": 75,
+        "name": "New",
+        "major": "CS",
+        "status": "active"
+      },
+      {
+        "ssn": 80,
+        "name": "New",
+        "major": "CS",
+        "status": "active"
+      }
+    ],
+    "dataQuery_j": []
+  }
+}
